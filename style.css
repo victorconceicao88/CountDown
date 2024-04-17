@@ -1,0 +1,25 @@
+body{
+    background-color: white;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+header{
+    color: black;
+    display: grid;
+    grid-auto-flow: column;
+    grid-auto-columns: 33vw;
+    margin-top: 20px;
+
+}
+
+#logo{
+    border-radius: 10px;
+}
+
+.timer{
+    display: grid;
+    grid-auto-flow: column; 
+    margin-top: 20px; 
+}
